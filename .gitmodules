@@ -112,8 +112,8 @@
 
 [submodule "ww3"]
         path = components/ww3
-        url = git@github.com:Fox-Kemper-Group/TW_interface.git
-        fxDONOTUSEurl = git@github.com:Fox-Kemper-Group/TW_interface.git
+        url = https://github.com/Fox-Kemper-Group/TW_interface.git
+        fxDONOTUSEurl = https://github.com/Fox-Kemper-Group/TW_interface.git
         fxtag = dev/cesm3
         fxrequired = ToplevelRequired
 
