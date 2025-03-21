@@ -112,9 +112,9 @@
 
 [submodule "ww3"]
         path = components/ww3
-        url = https://github.com/ESCOMP/WW3_interface
-        fxDONOTUSEurl = https://github.com/ESCOMP/WW3_interface
-        fxtag = main_0.0.16
+        url = git@github.com:Fox-Kemper-Group/TW_interface.git
+        fxDONOTUSEurl = git@github.com:Fox-Kemper-Group/TW_interface.git
+        fxtag = dev/cesm3
         fxrequired = ToplevelRequired
 
 [submodule "mizuroute"]
