@@ -11,3 +11,6 @@ __pycache__
 
 # ignore for the merge to master and orphaning of the gh-pages branch
 doc/build
+
+# ignore changes in the individual component modules, which should be tracked separately in their own repos
+components
